@@ -1,0 +1,3 @@
+﻿  UDPserver.cpp
+C:\Users\신선호\source\repos\202245079\Project1\UDPServer\UDPserver.cpp(26,12): warning C4101: 'client_sock' :참조되지 않은 지역 변수입니다.
+  UDPServer.vcxproj -> C:\Users\신선호\source\repos\202245079\Project1\x64\Debug\UDPServer.exe
